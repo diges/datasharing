@@ -1,3 +1,5 @@
+##This is my personal copy
+
 How to share data with a statistician
 ===========
 
